@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6281212303461@s.whatsapp.net",
+    "ownerName": "xiaotang",
+    "botName": "XiaoWu",
+    "footer": "XiaoWu",
+    "sessionName": "session",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "starxiue",
+    "instagram": "https://instagram.com/mballstore",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "sticker": {
+        "packname": "Created By",
+        "author": "@xiaotang"
+    }
+}
