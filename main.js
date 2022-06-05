@@ -16,7 +16,7 @@ const _0x5e6098 = _0x4fe8;
 const {
     default: makeWASocket,
     BufferJSON,
-    initInMemoryKeyStore,
+    initInMemo,
     DisconnectReason,
     AnyMessageContent,
     useSingleFileAuthState,
@@ -61,7 +61,7 @@ let _afk = JSON[_0x5e6098(0x250)](fs[_0x5e6098(0x1d6)](_0x5e6098(0x1c5))),
     set_done = JSON['parse'](fs[_0x5e6098(0x1d6)]('./database/set_done.json')),
     set_open = JSON[_0x5e6098(0x250)](fs[_0x5e6098(0x1d6)]('./database/set_open.json')),
     set_close = JSON[_0x5e6098(0x250)](fs[_0x5e6098(0x1d6)](_0x5e6098(0x270)));
-const time = moment(new Date())['format'](_0x5e6098(0x203));
+const time = moment(new Date(mat'](_0x5e6098(0x203));
 let setting = JSON[_0x5e6098(0x250)](fs[_0x5e6098(0x1d6)](_0x5e6098(0x1ee))),
     session = './' + setting[_0x5e6098(0x23f)] + '.json';
 const {
@@ -72,7 +72,7 @@ const {
 function title() {
     const _0x414293 = _0x5e6098;
     console['log'](chalk[_0x414293(0x23a)]['green'](figlet['textSync']('MB STORE', {
-        'font': 'Standard',
+        'font': 'Standar
         'horizontalLayout': _0x414293(0x21d),
         'verticalLayout': _0x414293(0x21d),
         'width': 0x50,
